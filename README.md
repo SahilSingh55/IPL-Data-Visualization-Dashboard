@@ -18,7 +18,7 @@ A data visualization challenge to build a web app with IPL (Indian Premier Leagu
   - [Click Here](https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset)  
 
 ## Link to Hosted Website
-  - [Click Here](https://socialcops.netlify.com)  
+  - [Click Here](https://sahil-ipl-dashboard.netlify.app)  
   *(Hosted on Netlify)*
 
 ## Bonus Points Explanation
